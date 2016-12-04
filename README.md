@@ -13,6 +13,10 @@ Alternative techniques were also prepared, such as creating a safe space visuali
 When the lewel of arousal went under the baseline and crossed a certain treshold set by the experimentator, the face viewed on camera shifted back to its original look. This was a feedback for the proband that the relaxation was succesful. 
 ## Results
 ## Inferences
+
+## Ethical considerations
+*please share the insights about ethical matters surrounding your work. Some "ethical cards" have been distributed to support the discussion about this subject.*
+
 ## Sources
 
 - Alexander, B., H., L., D., H., & Linkenkaer-Hanse, K. (2012). EEG-Biofeedback as a Tool to Modulate Arousal: Trends and Perspectives for Treatment of ADHD and Insomnia. In P. Bright (Ed.), Neuroimaging - Cognitive and Clinical Neuroscience. InTech. Retrieved from http://www.intechopen.com/books/neuroimaging-cognitive-and-clinical-neuroscience/eeg-biofeedback-as-a-tool-to-modulate-arousal-trends-and-perspectives-for-treatment-of-adhd-and-insomnia
