@@ -15,15 +15,12 @@ When the lewel of arousal went under the baseline and crossed a certain treshold
 ## Inferences
 ## Sources
 
-= Alexander, B., H., L., D., H., & Linkenkaer-Hanse, K. (2012). EEG-Biofeedback as a Tool to Modulate Arousal: Trends and Perspectives for Treatment of ADHD and Insomnia. In P. Bright (Ed.), Neuroimaging - Cognitive and Clinical Neuroscience. InTech. Retrieved from http://www.intechopen.com/books/neuroimaging-cognitive-and-clinical-neuroscience/eeg-biofeedback-as-a-tool-to-modulate-arousal-trends-and-perspectives-for-treatment-of-adhd-and-insomnia
-= Alhambra, M. A., Fowler, T. P., & Alhambra, A. A. (1995). EEG biofeedback: A new
-treatment option for ADD/ADHD. Journal of Neurotherapy, 1(2), 39-43.
-= Carmody, D. P., Radvanski, D. C., Wadhwani, S., Sabo, M. J., & Vergara, L. (2000). EEG
-biofeedback training and attention-deficit/hyperactivity disorder in an elementary
-school setting. Journal of Neurotherapy, 4(3), 5-27.
-Drechsler, R., Straub, M., Doehnert, M., Heinrich, H., Steinhausen, H.-C., & Brandeis, D. (2007). Controlled evaluation of a neurofeedback training of slow cortical potentials in children with Attention Deficit/Hyperactivity Disorder (ADHD). Behavioral and Brain Functions, 3(1), 35. https://doi.org/10.1186/1744-9081-3-35
-Gevensleben, H., Holl, B., Albrecht, B., Schlamp, D., Kratz, O., Studer, P., … Heinrich, H. (2010). Neurofeedback training in children with ADHD: 6-month follow-up of a randomised controlled trial. European Child & Adolescent Psychiatry, 19(9), 715–724. https://doi.org/10.1007/s00787-010-0109-5
-Leins, U., Goth, G., Hinterberger, T., Klinger, C., Rumpf, N., & Strehl, U. (2007). Neurofeedback for Children with ADHD: A Comparison of SCP and Theta/Beta Protocols. Applied Psychophysiology and Biofeedback, 32(2), 73–88. https://doi.org/10.1007/s10484-007-9031-0
-Nolen-Hoeksema, S., Frederickson, B. L., Loftus, G. R., & Wagenaar, W. A. (2012). Psychologie Atkinsonové a Hilgarda. Praha: Portál.
+- Alexander, B., H., L., D., H., & Linkenkaer-Hanse, K. (2012). EEG-Biofeedback as a Tool to Modulate Arousal: Trends and Perspectives for Treatment of ADHD and Insomnia. In P. Bright (Ed.), Neuroimaging - Cognitive and Clinical Neuroscience. InTech. Retrieved from http://www.intechopen.com/books/neuroimaging-cognitive-and-clinical-neuroscience/eeg-biofeedback-as-a-tool-to-modulate-arousal-trends-and-perspectives-for-treatment-of-adhd-and-insomnia
+- Alhambra, M. A., Fowler, T. P., & Alhambra, A. A. (1995). EEG biofeedback: A newtreatment option for ADD/ADHD. Journal of Neurotherapy, 1(2), 39-43.
+- Carmody, D. P., Radvanski, D. C., Wadhwani, S., Sabo, M. J., & Vergara, L. (2000). EEG biofeedback training and attention-deficit/hyperactivity disorder in an elementary school setting. Journal of Neurotherapy, 4(3), 5-27.
+- Drechsler, R., Straub, M., Doehnert, M., Heinrich, H., Steinhausen, H.-C., & Brandeis, D. (2007). Controlled evaluation of a neurofeedback training of slow cortical potentials in children with Attention Deficit/Hyperactivity Disorder (ADHD). Behavioral and Brain Functions, 3(1), 35. https://doi.org/10.1186/1744-9081-3-35
+- Gevensleben, H., Holl, B., Albrecht, B., Schlamp, D., Kratz, O., Studer, P., … Heinrich, H. (2010). Neurofeedback training in children with ADHD: 6-month follow-up of a randomised controlled trial. European Child & Adolescent Psychiatry, 19(9), 715–724. https://doi.org/10.1007/s00787-010-0109-5
+- Leins, U., Goth, G., Hinterberger, T., Klinger, C., Rumpf, N., & Strehl, U. (2007). Neurofeedback for Children with ADHD: A Comparison of SCP and Theta/Beta Protocols. Applied Psychophysiology and Biofeedback, 32(2), 73–88. https://doi.org/10.1007/s10484-007-9031-0
+- Nolen-Hoeksema, S., Frederickson, B. L., Loftus, G. R., & Wagenaar, W. A. (2012). Psychologie Atkinsonové a Hilgarda. Praha: Portál.
 
 
