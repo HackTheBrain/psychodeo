@@ -1,4 +1,4 @@
-# psychodeo
+# Psychodeo
 
 ## Background
 According to the affective model, arousal is one of the core dimensions of emotions that can be used as a measuring unit (Nolen-Hoeksema, Frederickson, Loftus, & Wagenaar, 2012). EEG can be used not only as a measuring tool, but also as a biofeedback to modulate it. For example children with ADHD have different cognitive arousal manifesting through more beta and theta waves in resting state on EEG (Alexander, H., D., & Linkenkaer-Hanse, 2012). Studies have reported the positive effect of EEG biofeedback in terms of normalizing the level of arousal, improveness of behavior, attention and even improved grades and achievement scores (Alhambra et al., 1995; Caromody et al., 2000; Drechsler et al., 2007; Gevensleben et al., 2010; Leins et al., 2007). On the other hand, people with insomnia usually have a higher arousal measured as more beta and gamma waves (Alexander et al., 2012). The aim of the project is to create an interactive neurofeedback that could help the person to learn to decrease the stimulated level of arousal and/or induce a relaxed state in the person after an exposition to short-term arousal.
